@@ -5,3 +5,4 @@ redis
 rq
 pydantic-settings
 reportlab
+azure-functions
