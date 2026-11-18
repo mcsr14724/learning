@@ -1,0 +1,7 @@
+fastapi[standard]
+ipykernel
+python-multipart
+redis
+rq
+pydantic-settings
+reportlab
